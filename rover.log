@@ -1,0 +1,3 @@
+2023-06-20T23:35:54.767+02:00  INFO 92591 --- [main] c.moonrover.rover.RoverApplicationTests  : Starting RoverApplicationTests using Java 20.0.1 with PID 92591 (started by salt-dev in /Users/salt-dev/Downloads/rover 2)
+2023-06-20T23:35:54.771+02:00  INFO 92591 --- [main] c.moonrover.rover.RoverApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2023-06-20T23:35:55.255+02:00  INFO 92591 --- [main] c.moonrover.rover.RoverApplicationTests  : Started RoverApplicationTests in 0.621 seconds (process running for 1.056)
