@@ -15,7 +15,7 @@ public class SpringDocConfiguration {
     public OpenAPI basOpenAPI(){
         return new OpenAPI().info(new Info().title("Moon Rover Application")
                 .version("1.0.0")
-                .description("This documentation contains all API's developed for thsi application"));
+                .description("This documentation contains all API's developed for this application"));
 
     }
 
