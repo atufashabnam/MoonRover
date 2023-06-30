@@ -81,5 +81,4 @@ endpoint “http://localhost:8080/swagger-ui/index.html”
 Known Issues
 This Moon Rover Application has the following known issues:
 1. No authentication or authorization mechanism is implemented.
-2. Concurrent placement or movement of multiple rovers is not supported in this version.
-# MoonRover-Fullstack
+2. Concurrent placement or movement of multiple rovers is not supported in this version
